@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayandagumede10&label=Profile%20views&color=0e75b6&style=flat" alt="ayandagumede10" /> </p>
 
-- 🔭 I’m currently working on **UrbanHaven Propertise**
+- 🔭 I’m currently working on **Hackathon-2024**
 
 - 🌱 I’m currently learning **React Native**
 
