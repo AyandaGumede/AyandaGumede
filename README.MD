@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Hackathon-2024**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JAVA, C#**
 
-- 💬 Ask me about **ReactJS, Python, C++**
+- 💬 Ask me about **ReactJS, Python, C++, TypeScript**
 
 - 📫 How to reach me **gumedeayanda1715@gmail.com**
 
