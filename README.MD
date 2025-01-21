@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayanda Gumede</h1>
-<h3 align="center">A passionate Full-stack Developer from South Africa</h3>
+<h3 align="center">Software engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayandagumede10&label=Profile%20views&color=0e75b6&style=flat" alt="ayandagumede10" /> </p>
 
-- 🔭 I’m currently working on **Hackathon-2024**
-
 - 🌱 I’m currently learning **JAVA, C#**
 
-- 💬 Ask me about **ReactJS, Python, C++, TypeScript**
+- 💬 Ask me about **ReactJS, Python, C++, TypeScript, Postman, DevOps, micro-services**
 
 - 📫 How to reach me **gumedeayanda1715@gmail.com**
 
