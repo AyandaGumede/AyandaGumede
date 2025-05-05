@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAVA, C#**
 
-- 💬 Ask me about **ReactJS, Python, C++, TypeScript, Postman, DevOps, micro-services**
+- 💬 Ask me about **ReactJS, ASP.NET,Python, C++, TypeScript, Postman, DevOps, micro-services**
 
 - 📫 How to reach me **gumedeayanda1715@gmail.com**
 
